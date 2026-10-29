@@ -224,3 +224,6 @@ __marimo__/
 
 # Generated bead patterns
 output/
+
+# VS Code local settings
+.vscode/
